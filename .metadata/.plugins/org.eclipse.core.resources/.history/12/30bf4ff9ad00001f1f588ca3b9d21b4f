@@ -1,0 +1,9 @@
+package com.burnus.all.repository;
+
+import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
+
+import com.burnus.all.entity.MemberEntity;
+
+public class MemberRepository extends SimpleJpaRepository<MemberEntity, Integer> {
+
+}

@@ -1,0 +1,5 @@
+package com.burnus.all.data;
+
+public enum MemberRole {
+
+}

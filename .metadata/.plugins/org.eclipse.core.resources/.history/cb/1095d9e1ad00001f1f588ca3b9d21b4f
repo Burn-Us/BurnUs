@@ -1,0 +1,7 @@
+package com.burnus.all.repository;
+
+import com.burnus.all.entity.MemberEntity;
+
+public class MemberRepository extends {
+
+}

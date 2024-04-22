@@ -1,0 +1,6 @@
+package com.burnus.all.entity;
+
+@Entity
+public class MemberEntity {
+
+}

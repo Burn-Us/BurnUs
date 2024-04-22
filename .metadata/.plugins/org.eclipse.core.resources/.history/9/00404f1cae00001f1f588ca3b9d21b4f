@@ -1,0 +1,6 @@
+package com.burnus.all.controller;
+
+@Controller
+public class MemberController {
+
+}

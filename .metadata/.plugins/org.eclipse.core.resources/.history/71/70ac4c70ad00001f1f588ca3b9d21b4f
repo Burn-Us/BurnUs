@@ -1,0 +1,5 @@
+package com.burnus.all.repository;
+
+public class MemberRepository extends JpaRepository<MemberEntity, Integer> {
+
+}

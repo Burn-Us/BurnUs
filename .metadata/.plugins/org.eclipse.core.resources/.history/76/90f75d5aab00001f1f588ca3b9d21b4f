@@ -1,0 +1,18 @@
+package com.burnus.all.entity;
+
+import com.burnus.all.config.BaseTimeEntity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@Entity
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Table(name = "Member" )
+public class MemberEntity extends BaseTimeEntity {
+
+}
